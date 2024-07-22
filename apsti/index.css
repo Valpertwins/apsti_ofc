@@ -1,5 +1,3 @@
-/* index.css */
-
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -8,7 +6,7 @@ body {
 }
 
 .navbar {
-  background-color: #800020; /* Color vino */
+  background-color: #800020; 
   padding: 10px 20px;
 }
 
@@ -34,7 +32,7 @@ body {
 }
 
 .footer {
-  background-color: #800020; /* Color vino */
+  background-color: #800020; 
   color: white;
   text-align: center;
   padding: 10px 0;
